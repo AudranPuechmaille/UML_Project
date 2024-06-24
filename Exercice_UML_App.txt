@@ -1,0 +1,75 @@
+Collecting the requirements : (What the software should do & how it should work - Create a list of requirements)
+
+Tasks-manager App Features : 
+
+- Create and edit view tasks
+
+- Assign dates to tasks
+
+- Capture hand-drawn sketches
+
+- Password-protect sensitive tasks
+
+- Sync app data to Dropbox, iCloud or Google
+
+Functional Requirements
+
+- We need to build a task-manager app
+
+- Users can create and edit tasks
+
+- A task may also include hand-drawn sketches
+
+- Sensitive tasks can be protected from prying eyes using a password
+
+- The app automatically uploads changes to cloud storage services
+(Dropbox, iCloud and Google Drive)
+
+Nonfunctional Requirements :
+
+- The app should be easy to use
+
+- The app must run on the lastest iOS
+
+- The app should handle a large number of tasks
+
+- The app must be secure
+
+- Include a dedicated support email and website
+
+
+User stories :
+
+Functional requirements :
+
+Epic 1 : Task Creation & Editing
+
+- We need to build a task-manager app
+- Users can create and edit tasks
+- A task may also include hand-drawn sketches
+
+Epic 2 : Security/Password Protection
+
+- Sensitive tasks can be protected from prying eyes using a password
+
+Epic 3 : Syncing with the Cloud
+
+- The app automatically uploads changes to cloud storage services
+(Dropbox, iCloud and Google Drive)
+
+1. Task Creation & Editing
+
+- As a user, I want to create text-based tasks to capture my things to do
+
+- As a user, I want to edit my tasks so that I can refine them over time
+
+- As a user, I want to include hand-drawn sketches and dates in my tasks so I can put more details related to my tasks
+
+2. Security/Password Protection
+
+- As a user, I want to secure sensitive tasks with a password so that they remain secure and private
+
+3. Syncing with the Cloud
+
+- As a user, I want my tasks to automatically upload to cloud servers, so I always have a backup of my information
+
